@@ -1,0 +1,184 @@
+Best model saved!
+
+==============================
+Epoch 1/20
+Train Loss: 208.6711
+Train Accuracy: 70.88%
+Validation Loss: 22.0596
+Validation Accuracy: 90.75%
+==============================
+Epoch [2/20]: 100%|██████████| 400/400 [10:38<00:00,  1.60s/it, accuracy=87.3, loss=0.313] 
+Best model saved!
+
+==============================
+Epoch 2/20
+Train Loss: 121.3969
+Train Accuracy: 87.31%
+Validation Loss: 12.5751
+Validation Accuracy: 95.00%
+==============================
+Epoch [3/20]: 100%|██████████| 400/400 [10:24<00:00,  1.56s/it, accuracy=90.1, loss=0.183]  
+
+==============================
+Epoch 3/20
+Train Loss: 91.9829
+Train Accuracy: 90.06%
+Validation Loss: 19.4239
+Validation Accuracy: 89.50%
+==============================
+Epoch [4/20]: 100%|██████████| 400/400 [10:25<00:00,  1.56s/it, accuracy=92.7, loss=0.278]   
+
+==============================
+Epoch 4/20
+Train Loss: 69.2508
+Train Accuracy: 92.69%
+Validation Loss: 13.8963
+Validation Accuracy: 93.25%
+==============================
+Epoch [5/20]: 100%|██████████| 400/400 [10:24<00:00,  1.56s/it, accuracy=93.9, loss=0.0277]  
+Best model saved!
+
+==============================
+Epoch 5/20
+Train Loss: 58.2228
+Train Accuracy: 93.94%
+Validation Loss: 10.4290
+Validation Accuracy: 95.75%
+==============================
+Epoch [6/20]: 100%|██████████| 400/400 [13:55<00:00,  2.09s/it, accuracy=95.2, loss=0.00483] 
+
+==============================
+Epoch 6/20
+Train Loss: 46.4987
+Train Accuracy: 95.19%
+Validation Loss: 12.2837
+Validation Accuracy: 94.25%
+==============================
+Epoch [7/20]: 100%|██████████| 400/400 [10:26<00:00,  1.57s/it, accuracy=96.9, loss=0.0121]  
+
+==============================
+Epoch 7/20
+Train Loss: 28.7044
+Train Accuracy: 96.94%
+Validation Loss: 8.5983
+Validation Accuracy: 95.00%
+==============================
+Epoch [8/20]: 100%|██████████| 400/400 [10:24<00:00,  1.56s/it, accuracy=96.6, loss=0.0318]  
+
+==============================
+Epoch 8/20
+Train Loss: 31.3326
+Train Accuracy: 96.62%
+Validation Loss: 9.0396
+Validation Accuracy: 95.50%
+==============================
+Epoch [9/20]: 100%|██████████| 400/400 [27:42<00:00,  4.16s/it, accuracy=97.1, loss=0.0231]   
+
+==============================
+Epoch 9/20
+Train Loss: 26.6358
+Train Accuracy: 97.06%
+Validation Loss: 11.2881
+Validation Accuracy: 93.75%
+==============================
+Epoch [10/20]: 100%|██████████| 400/400 [11:35<00:00,  1.74s/it, accuracy=96.8, loss=0.00243]  
+
+==============================
+Epoch 10/20
+Train Loss: 29.5598
+Train Accuracy: 96.75%
+Validation Loss: 10.8136
+Validation Accuracy: 94.00%
+==============================
+Epoch [11/20]: 100%|██████████| 400/400 [10:25<00:00,  1.56s/it, accuracy=97.9, loss=0.00236] 
+
+==============================
+Epoch 11/20
+Train Loss: 24.5207
+Train Accuracy: 97.94%
+Validation Loss: 9.5226
+Validation Accuracy: 94.50%
+==============================
+Epoch [12/20]: 100%|██████████| 400/400 [23:17<00:00,  3.49s/it, accuracy=97.4, loss=0.000399]   
+
+==============================
+Epoch 12/20
+Train Loss: 22.2161
+Train Accuracy: 97.38%
+Validation Loss: 12.4698
+Validation Accuracy: 94.75%
+==============================
+Epoch [13/20]: 100%|██████████| 400/400 [10:26<00:00,  1.57s/it, accuracy=98.3, loss=3.2e-5]  
+
+==============================
+Epoch 13/20
+Train Loss: 12.7863
+Train Accuracy: 98.31%
+Validation Loss: 19.8254
+Validation Accuracy: 93.75%
+==============================
+Epoch [14/20]: 100%|██████████| 400/400 [10:50<00:00,  1.63s/it, accuracy=97.3, loss=0.133]   
+
+==============================
+Epoch 14/20
+Train Loss: 22.8867
+Train Accuracy: 97.31%
+Validation Loss: 10.5893
+Validation Accuracy: 95.50%
+==============================
+Epoch [15/20]: 100%|██████████| 400/400 [10:24<00:00,  1.56s/it, accuracy=98.8, loss=0.000359]
+
+==============================
+Epoch 15/20
+Train Loss: 12.9673
+Train Accuracy: 98.75%
+Validation Loss: 10.5939
+Validation Accuracy: 94.75%
+==============================
+Epoch [16/20]: 100%|██████████| 400/400 [10:24<00:00,  1.56s/it, accuracy=98.2, loss=6.46e-5] 
+
+==============================
+Epoch 16/20
+Train Loss: 18.9962
+Train Accuracy: 98.25%
+Validation Loss: 9.1907
+Validation Accuracy: 94.50%
+==============================
+Epoch [17/20]: 100%|██████████| 400/400 [10:24<00:00,  1.56s/it, accuracy=97.7, loss=6.63e-5] 
+
+==============================
+Epoch 17/20
+Train Loss: 26.3748
+Train Accuracy: 97.69%
+Validation Loss: 17.0422
+Validation Accuracy: 94.50%
+==============================
+Epoch [18/20]: 100%|██████████| 400/400 [10:24<00:00,  1.56s/it, accuracy=96.8, loss=0.00532] 
+
+==============================
+Epoch 18/20
+Train Loss: 30.3938
+Train Accuracy: 96.75%
+Validation Loss: 13.2713
+Validation Accuracy: 94.75%
+==============================
+Epoch [19/20]: 100%|██████████| 400/400 [10:26<00:00,  1.57s/it, accuracy=97.9, loss=0.000215]
+
+==============================
+Epoch 19/20
+Train Loss: 19.5766
+Train Accuracy: 97.88%
+Validation Loss: 8.6691
+Validation Accuracy: 95.75%
+==============================
+Epoch [20/20]: 100%|██████████| 400/400 [10:26<00:00,  1.57s/it, accuracy=98.8, loss=3.82e-6] 
+
+==============================
+Epoch 20/20
+Train Loss: 11.4170
+Train Accuracy: 98.75%
+Validation Loss: 30.3215
+Validation Accuracy: 93.25%
+==============================
+
+Final Model Saved Successfully!
