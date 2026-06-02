@@ -1,0 +1,57 @@
+Real videos: 1000
+Fake videos: 1000
+Total videos: 2000
+Frame shape: torch.Size([15, 3, 224, 224])
+First label: tensor(0)
+Train videos: 1600
+Validation videos: 400
+Epoch 1/50 - Train loss: 0.6995, Train acc: 0.5050 - Val loss: 0.7008, Val acc: 0.4825
+Epoch 2/50 - Train loss: 0.6961, Train acc: 0.4981 - Val loss: 0.6934, Val acc: 0.5050
+Epoch 3/50 - Train loss: 0.6951, Train acc: 0.4969 - Val loss: 0.6975, Val acc: 0.4825
+Epoch 4/50 - Train loss: 0.6935, Train acc: 0.5162 - Val loss: 0.6935, Val acc: 0.4975
+Epoch 5/50 - Train loss: 0.6952, Train acc: 0.4850 - Val loss: 0.6940, Val acc: 0.4825
+Epoch 6/50 - Train loss: 0.6952, Train acc: 0.4869 - Val loss: 0.6939, Val acc: 0.4825
+Epoch 7/50 - Train loss: 0.6938, Train acc: 0.5169 - Val loss: 0.6932, Val acc: 0.5250
+Epoch 8/50 - Train loss: 0.6945, Train acc: 0.5038 - Val loss: 0.6951, Val acc: 0.4825
+Epoch 9/50 - Train loss: 0.6938, Train acc: 0.4894 - Val loss: 0.6951, Val acc: 0.4825
+Epoch 10/50 - Train loss: 0.6940, Train acc: 0.5050 - Val loss: 0.6934, Val acc: 0.4800
+Epoch 11/50 - Train loss: 0.6936, Train acc: 0.4988 - Val loss: 0.6934, Val acc: 0.4875
+Epoch 12/50 - Train loss: 0.6934, Train acc: 0.4969 - Val loss: 0.6937, Val acc: 0.4825
+Epoch 13/50 - Train loss: 0.6932, Train acc: 0.4900 - Val loss: 0.6935, Val acc: 0.4825
+Epoch 14/50 - Train loss: 0.6927, Train acc: 0.5094 - Val loss: 0.6938, Val acc: 0.4925
+Epoch 15/50 - Train loss: 0.6927, Train acc: 0.5050 - Val loss: 0.6937, Val acc: 0.5025
+Epoch 16/50 - Train loss: 0.6930, Train acc: 0.4975 - Val loss: 0.6941, Val acc: 0.5075
+Epoch 17/50 - Train loss: 0.6935, Train acc: 0.4900 - Val loss: 0.6936, Val acc: 0.5050
+Epoch 18/50 - Train loss: 0.6926, Train acc: 0.5094 - Val loss: 0.6933, Val acc: 0.4975
+Epoch 19/50 - Train loss: 0.6930, Train acc: 0.5081 - Val loss: 0.6927, Val acc: 0.5100
+Epoch 20/50 - Train loss: 0.6929, Train acc: 0.5038 - Val loss: 0.6922, Val acc: 0.5300
+Epoch 21/50 - Train loss: 0.6905, Train acc: 0.5413 - Val loss: 0.6942, Val acc: 0.5125
+Epoch 22/50 - Train loss: 0.6921, Train acc: 0.5156 - Val loss: 0.6916, Val acc: 0.5000
+Epoch 23/50 - Train loss: 0.6918, Train acc: 0.5138 - Val loss: 0.6939, Val acc: 0.4825
+Epoch 24/50 - Train loss: 0.6925, Train acc: 0.5181 - Val loss: 0.6913, Val acc: 0.5150
+Epoch 25/50 - Train loss: 0.6914, Train acc: 0.5294 - Val loss: 0.6906, Val acc: 0.5525
+Epoch 26/50 - Train loss: 0.6901, Train acc: 0.5262 - Val loss: 0.6909, Val acc: 0.5225
+Epoch 27/50 - Train loss: 0.6903, Train acc: 0.5306 - Val loss: 0.6893, Val acc: 0.5525
+Epoch 28/50 - Train loss: 0.6919, Train acc: 0.5094 - Val loss: 0.6894, Val acc: 0.5550
+Epoch 29/50 - Train loss: 0.6906, Train acc: 0.5325 - Val loss: 0.6929, Val acc: 0.5100
+Epoch 30/50 - Train loss: 0.6900, Train acc: 0.5425 - Val loss: 0.6912, Val acc: 0.4975
+Epoch 31/50 - Train loss: 0.6896, Train acc: 0.5306 - Val loss: 0.6900, Val acc: 0.5300
+Epoch 32/50 - Train loss: 0.6895, Train acc: 0.5425 - Val loss: 0.6904, Val acc: 0.5100
+Epoch 33/50 - Train loss: 0.6891, Train acc: 0.5294 - Val loss: 0.6917, Val acc: 0.5450
+Epoch 34/50 - Train loss: 0.6897, Train acc: 0.5425 - Val loss: 0.6900, Val acc: 0.5250
+Epoch 35/50 - Train loss: 0.6897, Train acc: 0.5544 - Val loss: 0.6920, Val acc: 0.5450
+Epoch 36/50 - Train loss: 0.6890, Train acc: 0.5456 - Val loss: 0.6920, Val acc: 0.5325
+Epoch 37/50 - Train loss: 0.6885, Train acc: 0.5413 - Val loss: 0.6903, Val acc: 0.5225
+Epoch 38/50 - Train loss: 0.6894, Train acc: 0.5363 - Val loss: 0.6894, Val acc: 0.5425
+Epoch 39/50 - Train loss: 0.6901, Train acc: 0.5319 - Val loss: 0.6911, Val acc: 0.5200
+Epoch 40/50 - Train loss: 0.6896, Train acc: 0.5294 - Val loss: 0.6903, Val acc: 0.5200
+Epoch 41/50 - Train loss: 0.6880, Train acc: 0.5425 - Val loss: 0.6929, Val acc: 0.5325
+Epoch 42/50 - Train loss: 0.6879, Train acc: 0.5350 - Val loss: 0.6927, Val acc: 0.5450
+Epoch 43/50 - Train loss: 0.6895, Train acc: 0.5387 - Val loss: 0.6934, Val acc: 0.5100
+Epoch 44/50 - Train loss: 0.6881, Train acc: 0.5206 - Val loss: 0.6935, Val acc: 0.5050
+Epoch 45/50 - Train loss: 0.6890, Train acc: 0.5387 - Val loss: 0.6937, Val acc: 0.5325
+Epoch 46/50 - Train loss: 0.6869, Train acc: 0.5337 - Val loss: 0.6910, Val acc: 0.5225
+Epoch 47/50 - Train loss: 0.6879, Train acc: 0.5356 - Val loss: 0.6918, Val acc: 0.5225
+Epoch 48/50 - Train loss: 0.6868, Train acc: 0.5406 - Val loss: 0.6912, Val acc: 0.5275
+Epoch 49/50 - Train loss: 0.6873, Train acc: 0.5450 - Val loss: 0.6915, Val acc: 0.5275
+Epoch 50/50 - Train loss: 0.6867, Train acc: 0.5406 - Val loss: 0.6932, Val acc: 0.5275
